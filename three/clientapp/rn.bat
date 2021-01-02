@@ -1,0 +1,1 @@
+java -classpath c:\gson\*;build\libs\*;. com.thinking.machines.workforce.client.Main

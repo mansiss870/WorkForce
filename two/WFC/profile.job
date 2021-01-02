@@ -1,0 +1,18 @@
+{
+	"path": "dist",
+	"jars": [
+		"dist\\abc\\abcDist\\abcDist.jar",
+	        "dist\\lmn\\jk\\lmnDist\\lmnDist.jar",
+                "dist\\pqr\\pqrDist\\pqrDist.jar"
+	],
+	"jobs": [
+		"two.task.JobOne",
+		"two1.task.JobThree",
+		"two2.task.JobThree2"
+	],
+	"process": [
+		"doJobO",
+		"doJobTH",
+		"processor"
+	]
+}

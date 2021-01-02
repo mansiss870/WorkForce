@@ -1,0 +1,1 @@
+java -classpath build\libs\*;c:\gson\*;. com.thinking.machines.workforce.master.Main

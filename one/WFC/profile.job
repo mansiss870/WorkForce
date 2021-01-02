@@ -1,0 +1,9 @@
+{
+
+"jar": "jobone.jar",
+"path": "dist",
+"dataSetURL" : "http://blahblahblah/dataset?whatever=cool",
+"resultSetURL": "http://coolcool/fool",
+"job" : "one.task.Job",
+"process" : "doJob" 
+}
